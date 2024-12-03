@@ -14,21 +14,25 @@
  - [ ] [Premium Algo 100](https://leetcode.com/studyplan/premium-algo-100/)
 
 ## Languages Used
-Python (for now)
+[Python](https://www.python.org/) (for now)
 
 ## Directory Structure
 ```
 .
 ├── submission                      - folder for LeetCode problem submissions
+│   └── 0_TIQ                       - folder for "Top Interview Questions"
+│       ├── 1_easy                  - folder for "Easy Collection"
+│       ├── 2_medium                - folder for "Medium Collection"
+│       └── 3_hard                  - folder for "Hard Collection"
 └── README.md                       - this file
 ```
 
 ## Prefixes of commit messages
 ```
-solve: solveing problems
+solve:   solveing problems
 improve: improving performance
-modify: modifying only documents or comments
+modify:  modifying only documents or comments
 ```
 
 ## Acknowledgments
-Inspired by [Mr. Aida](https://github.com/a1da4)'s [repository](https://github.com/a1da4/leetcode?tab=readme-ov-file).
+This repository is inspired by [Mr. Aida](https://github.com/a1da4)'s [repository](https://github.com/a1da4/leetcode?tab=readme-ov-file).
