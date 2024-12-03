@@ -30,7 +30,7 @@
 ## Prefixes of commit messages
 ```
 solve:   solveing problems
-improve: improving performance
+improve: improving solution performance
 modify:  modifying only documents or comments
 ```
 
