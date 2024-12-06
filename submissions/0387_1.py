@@ -1,7 +1,6 @@
 # Time Limit Exceeded: O(n^2)
 class Solution(object):
-    def firstUniqChar(self, s):
-#    def firstUniqChar(self, s: str) -> int:
+    def firstUniqChar(self, s: str) -> int:
         encount = []
         for i, c_i in enumerate(s):
             flag = False

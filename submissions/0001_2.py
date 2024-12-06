@@ -1,6 +1,5 @@
 class Solution(object):
-    def twoSum(self, nums, target):
-#    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
         hash_map = {}
         for i, num in enumerate(nums):
             dif = target - num

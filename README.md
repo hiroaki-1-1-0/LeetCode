@@ -1,4 +1,5 @@
-# [LeetCode](https://leetcode.com/) Submissions
+# LeetCode Submissions
+Passed submissions on [LeetCode](https://leetcode.com/).
 
 ## Study Plans
  - [ ] [The LeetCode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
