@@ -1,7 +1,7 @@
 # LeetCode Submissions
 Passed submissions on [LeetCode](https://leetcode.com/).
 
-## Study Plans
+## Tutorials and Study Plans
  - [ ] [The LeetCode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
  - [ ] [Top Interview Questions -Easy](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
  - [ ] [60 questions to solve](https://leetcode.com/list/xo2bgr0r/)
@@ -28,7 +28,7 @@ Passed submissions on [LeetCode](https://leetcode.com/).
 └── README.md                       - this file
 ```
 
-## Prefixes of commit messages
+## Prefixes of Commit Messages
 ```
 solve:   solveing problems
 improve: improving solution performance
