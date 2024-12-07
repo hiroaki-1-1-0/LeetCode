@@ -1,5 +1,5 @@
-# LeetCode Submissions
-Passed submissions on [LeetCode](https://leetcode.com/).
+# LeetCode & AtCoder Submissions
+Passed submissions on [LeetCode](https://leetcode.com/) and [AtCoder](https://atcoder.jp/).
 
 ## Tutorials and Study Plans
  - [ ] [The LeetCode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
@@ -20,11 +20,14 @@ Passed submissions on [LeetCode](https://leetcode.com/).
 ## Directory Structure
 ```
 .
-├── submission                      - folder for LeetCode problem submissions
-│   └── 0_TIQ                       - folder for "Top Interview Questions"
-│       ├── 1_easy                  - folder for "Easy Collection"
-│       ├── 2_medium                - folder for "Medium Collection"
-│       └── 3_hard                  - folder for "Hard Collection"
+├── submission                      - folder for submissions
+│   ├── 0_LeetCode                  - folder for LeetCode problem submissions
+│   │   ├── 0_TIQ                   - folder for "Top Interview Questions"
+│   │   │   ├── 1_easy              - folder for "Easy Collection"
+│   │   │   ├── 2_medium            - folder for "Medium Collection"
+│   │   │   └── 3_hard              - folder for "Hard Collection"
+│   └── 1_AtCoder                   - folder for AtCoder problem submissions
+│       └── ABC                     - folder for "AtCoder Beginner Contest" submissions
 └── README.md                       - this file
 ```
 
@@ -36,4 +39,4 @@ modify:  modifying only documents or comments
 ```
 
 ## Acknowledgments
-This repository is inspired by [Mr. Aida](https://github.com/a1da4)'s [repository](https://github.com/a1da4/leetcode?tab=readme-ov-file).
+This repository is inspired by [Mr. Aida's](https://github.com/a1da4/leetcode?tab=readme-ov-file).
