@@ -20,7 +20,7 @@ Passed submissions on [LeetCode](https://leetcode.com/) and [AtCoder](https://at
 ## Directory Structure
 ```
 .
-├── 0_submission                    - folder for submissions
+├── 0_submission                    - folder for passed submissions
 │   ├── 0_LeetCode                  - folder for LeetCode problem submissions
 │   │   └── 0_TIQ                   - folder for "Top Interview Questions"
 │   │       ├── 1_easy              - folder for "Easy Collection"
