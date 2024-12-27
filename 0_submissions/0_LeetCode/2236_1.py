@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from typing import Optional
 class Solution:
     def checkTree(self, root: Optional[TreeNode]) -> bool: # Optional[TreeNode] means "TreeNode or None"
         return root.val == root.left.val + root.right.val
