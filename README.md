@@ -2,7 +2,7 @@
 Passed submissions on [LeetCode](https://leetcode.com/) and [AtCoder](https://atcoder.jp/).
 
 ## Tutorials and Study Plans
- - [ ] [The LeetCode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
+ - [x] [The LeetCode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
  - [ ] [Top Interview Questions -Easy](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
  - [ ] [60 questions to solve](https://leetcode.com/list/xo2bgr0r/)
  - [ ] [leetcode-75](https://leetcode.com/studyplan/leetcode-75/)
@@ -15,8 +15,8 @@ Passed submissions on [LeetCode](https://leetcode.com/) and [AtCoder](https://at
  - [ ] [Premium Algo 100](https://leetcode.com/studyplan/premium-algo-100/)
 
 ## Note
-These study plans are for Computer Science students.  
-For literally beginners, please refer to [this page](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/679/sql-syntax/4358/).
+These study plans are for Computer Science students or programmers.  
+For literally beginners, please refer to [this page](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/679/sql-syntax/4358/)'s "[Explore Cards](https://leetcode.com/explore/learn/)". Happy coding! 🚀
 
 ## Languages Used
 [Python](https://www.python.org/) (for now)
