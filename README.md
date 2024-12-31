@@ -14,6 +14,10 @@ Passed submissions on [LeetCode](https://leetcode.com/) and [AtCoder](https://at
  - [ ] [Programming Skills](https://leetcode.com/studyplan/programming-skills/)
  - [ ] [Premium Algo 100](https://leetcode.com/studyplan/premium-algo-100/)
 
+## Note
+These study plans are for Computer Science students.
+For beginners, please refer to [this page](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/679/sql-syntax/4358/).
+
 ## Languages Used
 [Python](https://www.python.org/) (for now)
 
