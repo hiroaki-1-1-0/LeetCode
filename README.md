@@ -1,7 +1,7 @@
 # LeetCode & AtCoder Submissions
 Passed submissions on [LeetCode](https://leetcode.com/) and [AtCoder](https://atcoder.jp/).
 
-## Tutorials and Study Plans
+## Tutorial and Study Plans
  - [x] [The LeetCode Beginner's Guide](https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/)
  - [ ] [Top Interview Questions -Easy](https://leetcode.com/explore/featured/card/top-interview-questions-easy/)
  - [ ] [60 questions to solve](https://leetcode.com/list/xo2bgr0r/)
